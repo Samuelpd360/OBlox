@@ -1,1 +1,1 @@
-OBlox is Roblox for the psp im also planning to make OBlox for the GameCube too OBlox stands for Old roBlox this is the 1st released version right now
+OBlox is Roblox for the psp im also planning to make OBlox for the GameCube too OBlox stands for Old roBlox this is the 1st released version right now to make your roblox game for it dont use the binary format use rbxlx or use old roblox studio before 2011 and it can only play one rbxlx or old rbxl at a time theres no menu yet
