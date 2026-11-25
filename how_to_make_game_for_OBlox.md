@@ -1,0 +1,1 @@
+this is how to make your game for OBlox 1st dont make your game too big it loads maps in ram and the psp 1000 has 32mb of ram and the newer models have 64mb of ram 2nd save it as rbxlx or if you use 2006/pre-2011 save it as is then put it in the maps folder then done
